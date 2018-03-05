@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rollbar-user_informer (0.0.0)
+    rollbar-user_informer (0.1.0)
       rollbar (~> 2.15)
 
 GEM
