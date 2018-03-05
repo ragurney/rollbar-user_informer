@@ -8,3 +8,4 @@ require "maxitest/autorun"
 
 require "rollbar/user_informer/version"
 require "rollbar/user_informer"
+require 'mocha/setup'
